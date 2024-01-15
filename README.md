@@ -1,4 +1,4 @@
 # SoftUniTest
 - first row added
 - second row added
-test for conflict
+- row after creating first branch
